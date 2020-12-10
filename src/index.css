@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "HYWenHei-85W";
+  src: local("HYWenHei-HEW.ttf"), url(assets/fonts/zh-cn.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  margin: 0;
+  font-family: "HYWenHei-85W", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* Remove React Router Link underline (will probably have to make this less nuclear later) */
+a {
+  text-decoration: none;
+  color: inherit;
+}
