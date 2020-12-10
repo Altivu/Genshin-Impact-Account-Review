@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Genshin-Impact-Account-Review/static/css/main.c5706e47.chunk.css",
+    "main.js": "/Genshin-Impact-Account-Review/static/js/main.66e8c4fc.chunk.js",
+    "main.js.map": "/Genshin-Impact-Account-Review/static/js/main.66e8c4fc.chunk.js.map",
+    "runtime-main.js": "/Genshin-Impact-Account-Review/static/js/runtime-main.b48f64b2.js",
+    "runtime-main.js.map": "/Genshin-Impact-Account-Review/static/js/runtime-main.b48f64b2.js.map",
+    "static/js/2.c164b2a1.chunk.js": "/Genshin-Impact-Account-Review/static/js/2.c164b2a1.chunk.js",
+    "static/js/2.c164b2a1.chunk.js.map": "/Genshin-Impact-Account-Review/static/js/2.c164b2a1.chunk.js.map",
+    "static/js/3.1c96c480.chunk.js": "/Genshin-Impact-Account-Review/static/js/3.1c96c480.chunk.js",
+    "static/js/3.1c96c480.chunk.js.map": "/Genshin-Impact-Account-Review/static/js/3.1c96c480.chunk.js.map",
+    "index.html": "/Genshin-Impact-Account-Review/index.html",
+    "static/css/main.c5706e47.chunk.css.map": "/Genshin-Impact-Account-Review/static/css/main.c5706e47.chunk.css.map",
+    "static/js/2.c164b2a1.chunk.js.LICENSE.txt": "/Genshin-Impact-Account-Review/static/js/2.c164b2a1.chunk.js.LICENSE.txt",
+    "static/media/Character_Lumine_Thumb.590e9845.webp": "/Genshin-Impact-Account-Review/static/media/Character_Lumine_Thumb.590e9845.webp",
+    "static/media/Genshin Impact Account Review.820ae39b.xlsx": "/Genshin-Impact-Account-Review/static/media/Genshin Impact Account Review.820ae39b.xlsx",
+    "static/media/Icon_Adventurers'_Guild.bcb7d81f.webp": "/Genshin-Impact-Account-Review/static/media/Icon_Adventurers'_Guild.bcb7d81f.webp",
+    "static/media/index.css": "/Genshin-Impact-Account-Review/static/media/zh-cn.54a82128.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b48f64b2.js",
+    "static/js/2.c164b2a1.chunk.js",
+    "static/css/main.c5706e47.chunk.css",
+    "static/js/main.66e8c4fc.chunk.js"
+  ]
+}
